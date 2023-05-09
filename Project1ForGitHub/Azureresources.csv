@@ -1,0 +1,24 @@
+﻿NAME,TYPE,LOCATION
+CassieKeyVault1,Key vault,East US
+CassiesSecurityGroup,App Service,East US
+DefaultWebAppWafa545fc23432a43a3ad497aa230779612,Front Door WAF policy,Global
+JumpBox,Virtual machine,East US
+JumpBox-ip,Public IP address,East US
+jumpbox92,Network Interface,East US
+JumpBox_disk1_7fcd74b6651c49339c038f8b04ee8b6d,Disk,East US
+project1-FrontDoor,Front Door and CDN profile,Global
+Project1Plan,App Service plan,East US
+Rednet,Virtual network,East US
+RedSG,Network security group,East US
+RedTeamLB,Load balancer,East US
+RedTeamLB,Public IP address,East US
+RedWeb,Availability set,East US
+Web1,Virtual machine,East US
+web1931,Network Interface,East US
+Web1_OsDisk_1_0097d80cbba64ae7baf9923a5dc52694,Disk,East US
+Web2,Virtual machine,East US
+web2769,Network Interface,East US
+Web2_OsDisk_1_3a8c05e01ace41b8b134d08be083c5f3,Disk,East US
+Web3Optional,Virtual machine,East US
+web3optional376,Network Interface,East US
+Web3Optional_OsDisk_1_ebd6235df3c44a408823f0812c49586f,Disk,East US
