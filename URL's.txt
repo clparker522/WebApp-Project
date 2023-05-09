@@ -1,0 +1,4 @@
+https://portal.azure.com/#@clparker522gmail.onmicrosoft.com/resource/subscriptions/f772c17b-0edd-42c1-994a-450cdca77257/resourceGroups/Red-Team/overview
+
+https://cassiessecuritygroup.azurewebsites.net/
+
